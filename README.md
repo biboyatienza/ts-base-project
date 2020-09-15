@@ -1,0 +1,1 @@
+#TypeScript base project boilerplate
